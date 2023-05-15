@@ -1,9 +1,9 @@
 [package]
-name = "osyrisrblx/t"
+name = "lifeblox/t"
 description = "A Runtime Typechecker for Roblox"
-version = "3.0.0"
+version = "0.1.0"
 license = "MIT"
-authors = ["Osyris"]
+authors = ["Osyris", "life-media"]
 realm = "shared"
 registry = "https://github.com/upliftgames/wally-index"
 exclude = ["*"]
